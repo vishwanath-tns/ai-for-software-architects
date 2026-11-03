@@ -23,7 +23,7 @@ Each lab in this repository uses **minimal, zero-bloat code** so you can inspect
 
 | Lab | Topic | Systems Architecture Equivalent | Status |
 | :--- | :--- | :--- | :--- |
-| **[Lesson 01](./Lesson_01_How_LLMs_Actually_Work/)** | **Under the Hood of an LLM Call** (Raw HTTPS, `temperature=0.0`, Strict JSON Schema) | Stateless REST Microservice + Protobuf/JSON Schema Validation | ✅ Ready |
+| **[Lesson 01](./Lesson_01_How_LLMs_Actually_Work/)** | **Under the Hood of an LLM Call** ([🎥 Video 1: Concept](./Lesson_01_How_LLMs_Actually_Work/videos/Part1_Concept_Walkthrough.mp4) \| [🎥 Video 2: Code](./Lesson_01_How_LLMs_Actually_Work/videos/Part2_Code_Walkthrough.mp4)) | Stateless REST Microservice + Protobuf/JSON Schema Validation | ✅ Ready |
 | **Lesson 02** | **Prompt Caching, Retries & Circuit Breakers** | L1/L2 Caching + Resilience4j Fault Tolerance | 🔜 Next |
 | **Lesson 03** | **Vector Embeddings & Semantic Search from Scratch** | Multi-Dimensional B-Tree / Coordinate Indexing | 🔜 Planned |
 | **Lesson 04** | **Production RAG (Retrieval-Augmented Generation)** | Read-Through Query Cache & Data Pipeline | 🔜 Planned |
