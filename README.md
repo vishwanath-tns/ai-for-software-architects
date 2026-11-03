@@ -37,7 +37,7 @@ Lesson 01 uses **pure Python 3.11+ standard library** (`urllib.request` + `json`
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-github-username>/ai-for-software-architects.git
+git clone https://github.com/vishwanath-tns/ai-for-software-architects.git
 cd ai-for-software-architects
 
 # 2. Run in Simulation Mode (inspects the raw HTTP JSON contract immediately)
