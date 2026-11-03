@@ -33,7 +33,7 @@ Each lab in this repository uses **minimal, zero-bloat code** so you can inspect
 
 ## Quick Start: Run Lesson 01 (Zero Dependencies!)
 
-Lesson 01 uses **pure Python 3.11+ standard library** (`urllib.request` + `json`—no `pip install` needed!) to turn a messy **Exchange FIX Gateway & Redis Margin Cache Error Log** into a strictly-typed JSON incident triage report.
+Lesson 01 uses **pure Python 3.11+ standard library** (`urllib.request` + `json`—no `pip install` needed!) to turn a messy **Customer Online Order & UPI Payment Complaint** into a strictly-typed JSON ticket ready for your backend database or Kafka queue.
 
 ```bash
 # 1. Clone the repository
